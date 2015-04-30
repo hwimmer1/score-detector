@@ -1,5 +1,10 @@
 # ScoreDetector
 
+## Where you're at
+
+* Build file reader
+* Host on Heroku to test if overwriting will work
+
 ## Using this project
 
 Clone this project into a Java Workspace
